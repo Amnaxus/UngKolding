@@ -153,7 +153,7 @@ Public Class Form1
             MessageBox.Show("No winners, try again!", "TicTacToe", MessageBoxButtons.OK, MessageBoxIcon.Information)
             Reset()
         End If
-        'github test change
+
         If PlayerChoise = 1 And Strings.Right(Label1.Text, 1) = "O" Then
             Threading.Thread.Sleep(500)
             Application.DoEvents()
