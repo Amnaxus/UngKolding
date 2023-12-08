@@ -1,0 +1,17 @@
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Puzzle_game\Puzzle_game\obj\Debug\net6.0-windows\Puzzle_game.Form1.resources
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Puzzle_game\Puzzle_game\obj\Debug\net6.0-windows\Puzzle_game.vbproj.GenerateResource.cache
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Puzzle_game\Puzzle_game\obj\Debug\net6.0-windows\Puzzle_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Puzzle_game\Puzzle_game\obj\Debug\net6.0-windows\Puzzle_game.AssemblyInfoInputs.cache
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Puzzle_game\Puzzle_game\obj\Debug\net6.0-windows\Puzzle_game.AssemblyInfo.vb
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Puzzle_game\Puzzle_game\obj\Debug\net6.0-windows\Puzzle_game.vbproj.CoreCompileInputs.cache
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Puzzle_game\Puzzle_game\bin\Debug\net6.0-windows\Puzzle_game.exe
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Puzzle_game\Puzzle_game\bin\Debug\net6.0-windows\Puzzle_game.deps.json
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Puzzle_game\Puzzle_game\bin\Debug\net6.0-windows\Puzzle_game.runtimeconfig.json
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Puzzle_game\Puzzle_game\bin\Debug\net6.0-windows\Puzzle_game.dll
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Puzzle_game\Puzzle_game\bin\Debug\net6.0-windows\Puzzle_game.pdb
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Puzzle_game\Puzzle_game\obj\Debug\net6.0-windows\Puzzle_game.dll
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Puzzle_game\Puzzle_game\obj\Debug\net6.0-windows\refint\Puzzle_game.dll
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Puzzle_game\Puzzle_game\obj\Debug\net6.0-windows\Puzzle_game.pdb
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Puzzle_game\Puzzle_game\obj\Debug\net6.0-windows\Puzzle_game.genruntimeconfig.cache
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Puzzle_game\Puzzle_game\obj\Debug\net6.0-windows\ref\Puzzle_game.dll
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Puzzle_game\Puzzle_game\obj\Debug\net6.0-windows\Puzzle_game.Resources.resources

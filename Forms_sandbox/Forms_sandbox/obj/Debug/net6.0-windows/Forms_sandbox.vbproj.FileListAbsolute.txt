@@ -1,0 +1,16 @@
+C:\Users\carst\source\repos\Forms_sandbox\Forms_sandbox\bin\Debug\net6.0-windows\Forms_sandbox.exe
+C:\Users\carst\source\repos\Forms_sandbox\Forms_sandbox\bin\Debug\net6.0-windows\Forms_sandbox.deps.json
+C:\Users\carst\source\repos\Forms_sandbox\Forms_sandbox\bin\Debug\net6.0-windows\Forms_sandbox.runtimeconfig.json
+C:\Users\carst\source\repos\Forms_sandbox\Forms_sandbox\bin\Debug\net6.0-windows\Forms_sandbox.dll
+C:\Users\carst\source\repos\Forms_sandbox\Forms_sandbox\bin\Debug\net6.0-windows\Forms_sandbox.pdb
+C:\Users\carst\source\repos\Forms_sandbox\Forms_sandbox\obj\Debug\net6.0-windows\Forms_sandbox.Form1.resources
+C:\Users\carst\source\repos\Forms_sandbox\Forms_sandbox\obj\Debug\net6.0-windows\Forms_sandbox.vbproj.GenerateResource.cache
+C:\Users\carst\source\repos\Forms_sandbox\Forms_sandbox\obj\Debug\net6.0-windows\Forms_sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carst\source\repos\Forms_sandbox\Forms_sandbox\obj\Debug\net6.0-windows\Forms_sandbox.AssemblyInfoInputs.cache
+C:\Users\carst\source\repos\Forms_sandbox\Forms_sandbox\obj\Debug\net6.0-windows\Forms_sandbox.AssemblyInfo.vb
+C:\Users\carst\source\repos\Forms_sandbox\Forms_sandbox\obj\Debug\net6.0-windows\Forms_sandbox.vbproj.CoreCompileInputs.cache
+C:\Users\carst\source\repos\Forms_sandbox\Forms_sandbox\obj\Debug\net6.0-windows\Forms_sandbox.dll
+C:\Users\carst\source\repos\Forms_sandbox\Forms_sandbox\obj\Debug\net6.0-windows\refint\Forms_sandbox.dll
+C:\Users\carst\source\repos\Forms_sandbox\Forms_sandbox\obj\Debug\net6.0-windows\Forms_sandbox.pdb
+C:\Users\carst\source\repos\Forms_sandbox\Forms_sandbox\obj\Debug\net6.0-windows\Forms_sandbox.genruntimeconfig.cache
+C:\Users\carst\source\repos\Forms_sandbox\Forms_sandbox\obj\Debug\net6.0-windows\ref\Forms_sandbox.dll

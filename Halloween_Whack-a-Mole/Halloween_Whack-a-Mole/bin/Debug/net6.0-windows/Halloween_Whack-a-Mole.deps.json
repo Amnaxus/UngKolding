@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Halloween_Whack-a-Mole/1.0.0": {
+        "runtime": {
+          "Halloween_Whack-a-Mole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Halloween_Whack-a-Mole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

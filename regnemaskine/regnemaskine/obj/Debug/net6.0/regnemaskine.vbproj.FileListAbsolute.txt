@@ -1,0 +1,14 @@
+C:\Users\carst\source\repos\regnemaskine\regnemaskine\bin\Debug\net6.0\regnemaskine.exe
+C:\Users\carst\source\repos\regnemaskine\regnemaskine\bin\Debug\net6.0\regnemaskine.deps.json
+C:\Users\carst\source\repos\regnemaskine\regnemaskine\bin\Debug\net6.0\regnemaskine.runtimeconfig.json
+C:\Users\carst\source\repos\regnemaskine\regnemaskine\bin\Debug\net6.0\regnemaskine.dll
+C:\Users\carst\source\repos\regnemaskine\regnemaskine\bin\Debug\net6.0\regnemaskine.pdb
+C:\Users\carst\source\repos\regnemaskine\regnemaskine\obj\Debug\net6.0\regnemaskine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carst\source\repos\regnemaskine\regnemaskine\obj\Debug\net6.0\regnemaskine.AssemblyInfoInputs.cache
+C:\Users\carst\source\repos\regnemaskine\regnemaskine\obj\Debug\net6.0\regnemaskine.AssemblyInfo.vb
+C:\Users\carst\source\repos\regnemaskine\regnemaskine\obj\Debug\net6.0\regnemaskine.vbproj.CoreCompileInputs.cache
+C:\Users\carst\source\repos\regnemaskine\regnemaskine\obj\Debug\net6.0\regnemaskine.dll
+C:\Users\carst\source\repos\regnemaskine\regnemaskine\obj\Debug\net6.0\refint\regnemaskine.dll
+C:\Users\carst\source\repos\regnemaskine\regnemaskine\obj\Debug\net6.0\regnemaskine.pdb
+C:\Users\carst\source\repos\regnemaskine\regnemaskine\obj\Debug\net6.0\regnemaskine.genruntimeconfig.cache
+C:\Users\carst\source\repos\regnemaskine\regnemaskine\obj\Debug\net6.0\ref\regnemaskine.dll

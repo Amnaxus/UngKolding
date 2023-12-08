@@ -1,0 +1,14 @@
+C:\Users\carst\source\repos\Sortering\Sortering\bin\Debug\net6.0\Sortering.exe
+C:\Users\carst\source\repos\Sortering\Sortering\bin\Debug\net6.0\Sortering.deps.json
+C:\Users\carst\source\repos\Sortering\Sortering\bin\Debug\net6.0\Sortering.runtimeconfig.json
+C:\Users\carst\source\repos\Sortering\Sortering\bin\Debug\net6.0\Sortering.dll
+C:\Users\carst\source\repos\Sortering\Sortering\bin\Debug\net6.0\Sortering.pdb
+C:\Users\carst\source\repos\Sortering\Sortering\obj\Debug\net6.0\Sortering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carst\source\repos\Sortering\Sortering\obj\Debug\net6.0\Sortering.AssemblyInfoInputs.cache
+C:\Users\carst\source\repos\Sortering\Sortering\obj\Debug\net6.0\Sortering.AssemblyInfo.vb
+C:\Users\carst\source\repos\Sortering\Sortering\obj\Debug\net6.0\Sortering.vbproj.CoreCompileInputs.cache
+C:\Users\carst\source\repos\Sortering\Sortering\obj\Debug\net6.0\Sortering.dll
+C:\Users\carst\source\repos\Sortering\Sortering\obj\Debug\net6.0\refint\Sortering.dll
+C:\Users\carst\source\repos\Sortering\Sortering\obj\Debug\net6.0\Sortering.pdb
+C:\Users\carst\source\repos\Sortering\Sortering\obj\Debug\net6.0\Sortering.genruntimeconfig.cache
+C:\Users\carst\source\repos\Sortering\Sortering\obj\Debug\net6.0\ref\Sortering.dll

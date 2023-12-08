@@ -1,0 +1,17 @@
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Halloween_Whack-a-Mole\Halloween_Whack-a-Mole\bin\Debug\net6.0-windows\Halloween_Whack-a-Mole.exe
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Halloween_Whack-a-Mole\Halloween_Whack-a-Mole\bin\Debug\net6.0-windows\Halloween_Whack-a-Mole.deps.json
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Halloween_Whack-a-Mole\Halloween_Whack-a-Mole\bin\Debug\net6.0-windows\Halloween_Whack-a-Mole.runtimeconfig.json
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Halloween_Whack-a-Mole\Halloween_Whack-a-Mole\bin\Debug\net6.0-windows\Halloween_Whack-a-Mole.dll
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Halloween_Whack-a-Mole\Halloween_Whack-a-Mole\bin\Debug\net6.0-windows\Halloween_Whack-a-Mole.pdb
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Halloween_Whack-a-Mole\Halloween_Whack-a-Mole\obj\Debug\net6.0-windows\Halloween_Whack_a_Mole.Form1.resources
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Halloween_Whack-a-Mole\Halloween_Whack-a-Mole\obj\Debug\net6.0-windows\Halloween_Whack_a_Mole.Resources.resources
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Halloween_Whack-a-Mole\Halloween_Whack-a-Mole\obj\Debug\net6.0-windows\Halloween_Whack-a-Mole.vbproj.GenerateResource.cache
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Halloween_Whack-a-Mole\Halloween_Whack-a-Mole\obj\Debug\net6.0-windows\Halloween_Whack-a-Mole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Halloween_Whack-a-Mole\Halloween_Whack-a-Mole\obj\Debug\net6.0-windows\Halloween_Whack-a-Mole.AssemblyInfoInputs.cache
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Halloween_Whack-a-Mole\Halloween_Whack-a-Mole\obj\Debug\net6.0-windows\Halloween_Whack-a-Mole.AssemblyInfo.vb
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Halloween_Whack-a-Mole\Halloween_Whack-a-Mole\obj\Debug\net6.0-windows\Halloween_Whack-a-Mole.vbproj.CoreCompileInputs.cache
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Halloween_Whack-a-Mole\Halloween_Whack-a-Mole\obj\Debug\net6.0-windows\Halloween_Whack-a-Mole.dll
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Halloween_Whack-a-Mole\Halloween_Whack-a-Mole\obj\Debug\net6.0-windows\refint\Halloween_Whack-a-Mole.dll
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Halloween_Whack-a-Mole\Halloween_Whack-a-Mole\obj\Debug\net6.0-windows\Halloween_Whack-a-Mole.pdb
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Halloween_Whack-a-Mole\Halloween_Whack-a-Mole\obj\Debug\net6.0-windows\Halloween_Whack-a-Mole.genruntimeconfig.cache
+C:\Users\carst\OneDrive\Documents\Visual Studio 2022\Projects\Halloween_Whack-a-Mole\Halloween_Whack-a-Mole\obj\Debug\net6.0-windows\ref\Halloween_Whack-a-Mole.dll

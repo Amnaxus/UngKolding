@@ -1,0 +1,14 @@
+C:\Users\carst\source\repos\Loops\Loops\bin\Debug\net6.0\Loops.exe
+C:\Users\carst\source\repos\Loops\Loops\bin\Debug\net6.0\Loops.deps.json
+C:\Users\carst\source\repos\Loops\Loops\bin\Debug\net6.0\Loops.runtimeconfig.json
+C:\Users\carst\source\repos\Loops\Loops\bin\Debug\net6.0\Loops.dll
+C:\Users\carst\source\repos\Loops\Loops\bin\Debug\net6.0\Loops.pdb
+C:\Users\carst\source\repos\Loops\Loops\obj\Debug\net6.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carst\source\repos\Loops\Loops\obj\Debug\net6.0\Loops.AssemblyInfoInputs.cache
+C:\Users\carst\source\repos\Loops\Loops\obj\Debug\net6.0\Loops.AssemblyInfo.vb
+C:\Users\carst\source\repos\Loops\Loops\obj\Debug\net6.0\Loops.vbproj.CoreCompileInputs.cache
+C:\Users\carst\source\repos\Loops\Loops\obj\Debug\net6.0\Loops.dll
+C:\Users\carst\source\repos\Loops\Loops\obj\Debug\net6.0\refint\Loops.dll
+C:\Users\carst\source\repos\Loops\Loops\obj\Debug\net6.0\Loops.pdb
+C:\Users\carst\source\repos\Loops\Loops\obj\Debug\net6.0\Loops.genruntimeconfig.cache
+C:\Users\carst\source\repos\Loops\Loops\obj\Debug\net6.0\ref\Loops.dll

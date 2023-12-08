@@ -1,0 +1,17 @@
+C:\Users\carst\source\repos\CarRacingGame\CarRacingGame\bin\Debug\net6.0-windows\CarRacingGame.exe
+C:\Users\carst\source\repos\CarRacingGame\CarRacingGame\bin\Debug\net6.0-windows\CarRacingGame.deps.json
+C:\Users\carst\source\repos\CarRacingGame\CarRacingGame\bin\Debug\net6.0-windows\CarRacingGame.runtimeconfig.json
+C:\Users\carst\source\repos\CarRacingGame\CarRacingGame\bin\Debug\net6.0-windows\CarRacingGame.dll
+C:\Users\carst\source\repos\CarRacingGame\CarRacingGame\bin\Debug\net6.0-windows\CarRacingGame.pdb
+C:\Users\carst\source\repos\CarRacingGame\CarRacingGame\obj\Debug\net6.0-windows\CarRacingGame.Form1.resources
+C:\Users\carst\source\repos\CarRacingGame\CarRacingGame\obj\Debug\net6.0-windows\CarRacingGame.vbproj.GenerateResource.cache
+C:\Users\carst\source\repos\CarRacingGame\CarRacingGame\obj\Debug\net6.0-windows\CarRacingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carst\source\repos\CarRacingGame\CarRacingGame\obj\Debug\net6.0-windows\CarRacingGame.AssemblyInfoInputs.cache
+C:\Users\carst\source\repos\CarRacingGame\CarRacingGame\obj\Debug\net6.0-windows\CarRacingGame.AssemblyInfo.vb
+C:\Users\carst\source\repos\CarRacingGame\CarRacingGame\obj\Debug\net6.0-windows\CarRacingGame.vbproj.CoreCompileInputs.cache
+C:\Users\carst\source\repos\CarRacingGame\CarRacingGame\obj\Debug\net6.0-windows\CarRacingGame.dll
+C:\Users\carst\source\repos\CarRacingGame\CarRacingGame\obj\Debug\net6.0-windows\refint\CarRacingGame.dll
+C:\Users\carst\source\repos\CarRacingGame\CarRacingGame\obj\Debug\net6.0-windows\CarRacingGame.pdb
+C:\Users\carst\source\repos\CarRacingGame\CarRacingGame\obj\Debug\net6.0-windows\CarRacingGame.genruntimeconfig.cache
+C:\Users\carst\source\repos\CarRacingGame\CarRacingGame\obj\Debug\net6.0-windows\ref\CarRacingGame.dll
+C:\Users\carst\source\repos\CarRacingGame\CarRacingGame\obj\Debug\net6.0-windows\CarRacingGame.Resources.resources

@@ -1,0 +1,16 @@
+C:\Users\carst\source\repos\FirstForm\FirstForm\obj\Debug\net6.0-windows\FirstForm.Form1.resources
+C:\Users\carst\source\repos\FirstForm\FirstForm\obj\Debug\net6.0-windows\FirstForm.vbproj.GenerateResource.cache
+C:\Users\carst\source\repos\FirstForm\FirstForm\obj\Debug\net6.0-windows\FirstForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carst\source\repos\FirstForm\FirstForm\obj\Debug\net6.0-windows\FirstForm.AssemblyInfoInputs.cache
+C:\Users\carst\source\repos\FirstForm\FirstForm\obj\Debug\net6.0-windows\FirstForm.AssemblyInfo.vb
+C:\Users\carst\source\repos\FirstForm\FirstForm\obj\Debug\net6.0-windows\FirstForm.vbproj.CoreCompileInputs.cache
+C:\Users\carst\source\repos\FirstForm\FirstForm\bin\Debug\net6.0-windows\FirstForm.exe
+C:\Users\carst\source\repos\FirstForm\FirstForm\bin\Debug\net6.0-windows\FirstForm.deps.json
+C:\Users\carst\source\repos\FirstForm\FirstForm\bin\Debug\net6.0-windows\FirstForm.runtimeconfig.json
+C:\Users\carst\source\repos\FirstForm\FirstForm\bin\Debug\net6.0-windows\FirstForm.dll
+C:\Users\carst\source\repos\FirstForm\FirstForm\bin\Debug\net6.0-windows\FirstForm.pdb
+C:\Users\carst\source\repos\FirstForm\FirstForm\obj\Debug\net6.0-windows\FirstForm.dll
+C:\Users\carst\source\repos\FirstForm\FirstForm\obj\Debug\net6.0-windows\refint\FirstForm.dll
+C:\Users\carst\source\repos\FirstForm\FirstForm\obj\Debug\net6.0-windows\FirstForm.pdb
+C:\Users\carst\source\repos\FirstForm\FirstForm\obj\Debug\net6.0-windows\FirstForm.genruntimeconfig.cache
+C:\Users\carst\source\repos\FirstForm\FirstForm\obj\Debug\net6.0-windows\ref\FirstForm.dll

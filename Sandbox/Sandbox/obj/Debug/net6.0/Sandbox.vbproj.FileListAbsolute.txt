@@ -1,0 +1,14 @@
+C:\Users\carst\source\repos\Sandbox\Sandbox\bin\Debug\net6.0\Sandbox.exe
+C:\Users\carst\source\repos\Sandbox\Sandbox\bin\Debug\net6.0\Sandbox.deps.json
+C:\Users\carst\source\repos\Sandbox\Sandbox\bin\Debug\net6.0\Sandbox.runtimeconfig.json
+C:\Users\carst\source\repos\Sandbox\Sandbox\bin\Debug\net6.0\Sandbox.dll
+C:\Users\carst\source\repos\Sandbox\Sandbox\bin\Debug\net6.0\Sandbox.pdb
+C:\Users\carst\source\repos\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carst\source\repos\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.AssemblyInfoInputs.cache
+C:\Users\carst\source\repos\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.AssemblyInfo.vb
+C:\Users\carst\source\repos\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.vbproj.CoreCompileInputs.cache
+C:\Users\carst\source\repos\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.dll
+C:\Users\carst\source\repos\Sandbox\Sandbox\obj\Debug\net6.0\refint\Sandbox.dll
+C:\Users\carst\source\repos\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.pdb
+C:\Users\carst\source\repos\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.genruntimeconfig.cache
+C:\Users\carst\source\repos\Sandbox\Sandbox\obj\Debug\net6.0\ref\Sandbox.dll
